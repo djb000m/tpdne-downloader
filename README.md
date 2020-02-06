@@ -41,7 +41,7 @@ Options:
 
 ```
 
-> ### Notes:
+> #### Notes:
 >
 > _If **--number** is not specified then one image will be downloaded._
 >
