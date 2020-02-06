@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://thispersondoesnotexist.com/image" width=500 />
+  <img src="http://thispersondoesnotexist.com/image" width=100 />
 </p>
 
 # TPDNE Downloader
